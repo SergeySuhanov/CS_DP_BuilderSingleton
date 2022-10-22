@@ -38,6 +38,7 @@ namespace CS_DP_Builder
             Console.WriteLine($"Engine: {parts["engine"]}");
             Console.WriteLine($"Wheels: {parts["wheels"]}");
             Console.WriteLine($"Doors: {parts["doors"]}");
+            Console.WriteLine($"Wings: {parts["wings"]}");
         }
     }
 }
